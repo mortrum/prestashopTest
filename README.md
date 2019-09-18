@@ -1,2 +1,3 @@
 # prestashopTest
-Java + Selenium + Junit + Log4j
+Java + Selenium + Junit + Log4j + IntelliJ Idea
+
