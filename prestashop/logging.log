@@ -1,0 +1,14 @@
+2019-09-18 18:53:08 INFO  HomePage:30 - web page is opened!
+2019-09-18 18:53:08 INFO  HomePage:55 - clicked to #_desktop_currency_selector > div > a > i
+2019-09-18 18:53:11 INFO  HomePage:60 - clicked to #_desktop_currency_selector > div > ul > li:nth-child(3) > a
+2019-09-18 18:53:12 INFO  HomePage:71 - sendKeys to #search_widget > form > input.ui-autocomplete-input
+2019-09-18 18:53:13 INFO  HomePage:74 - clicked to #search_widget > form > button
+2019-09-18 18:53:15 INFO  SearchPage:65 - clicked to #js-product-list-top > div:nth-child(2) > div > div > a > i
+2019-09-18 18:53:16 INFO  SearchPage:69 - clicked to #js-product-list-top > div:nth-child(2) > div > div > div > a:nth-child(5)
+2019-09-18 18:58:14 INFO  HomePage:30 - web page is opened!
+2019-09-18 18:58:15 INFO  HomePage:55 - clicked to #_desktop_currency_selector > div > a > i
+2019-09-18 18:58:18 INFO  HomePage:60 - clicked to #_desktop_currency_selector > div > ul > li:nth-child(3) > a
+2019-09-18 18:58:18 INFO  HomePage:71 - sendKeys to #search_widget > form > input.ui-autocomplete-input
+2019-09-18 18:58:20 INFO  HomePage:74 - clicked to #search_widget > form > button
+2019-09-18 18:58:22 INFO  SearchPage:62 - clicked to #js-product-list-top > div:nth-child(2) > div > div > a > i
+2019-09-18 18:58:22 INFO  SearchPage:66 - clicked to #js-product-list-top > div:nth-child(2) > div > div > div > a:nth-child(5)
